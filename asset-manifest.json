@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.9ee0da14.chunk.css",
+    "main.js": "/portafolio/static/js/main.ed4b780c.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.ed4b780c.chunk.js.map",
+    "runtime-main.js": "/portafolio/static/js/runtime-main.9c3ccc93.js",
+    "runtime-main.js.map": "/portafolio/static/js/runtime-main.9c3ccc93.js.map",
+    "static/js/2.d1b19f39.chunk.js": "/portafolio/static/js/2.d1b19f39.chunk.js",
+    "static/js/2.d1b19f39.chunk.js.map": "/portafolio/static/js/2.d1b19f39.chunk.js.map",
+    "index.html": "/portafolio/index.html",
+    "static/css/main.9ee0da14.chunk.css.map": "/portafolio/static/css/main.9ee0da14.chunk.css.map",
+    "static/js/2.d1b19f39.chunk.js.LICENSE.txt": "/portafolio/static/js/2.d1b19f39.chunk.js.LICENSE.txt",
+    "static/media/Calculator.5fb25696.png": "/portafolio/static/media/Calculator.5fb25696.png",
+    "static/media/Celular-interface.5daa99fb.png": "/portafolio/static/media/Celular-interface.5daa99fb.png",
+    "static/media/Superhero-app.4c2efb95.png": "/portafolio/static/media/Superhero-app.4c2efb95.png",
+    "static/media/App.css": "/portafolio/static/media/wallpaper.4ddd748b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c3ccc93.js",
+    "static/js/2.d1b19f39.chunk.js",
+    "static/css/main.9ee0da14.chunk.css",
+    "static/js/main.ed4b780c.chunk.js"
+  ]
+}
